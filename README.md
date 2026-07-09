@@ -39,7 +39,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 (https://arafaths.vercel.app/)
+🔗 https://arafaths.vercel.app
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-⭐ From [Arafath](https://github.com/arafaths)
+⭐ From [Arafat](https://github.com/arafaths)
 
 </div>
 
@@ -83,7 +83,7 @@
 <td width="55%" valign="top">
 
 ```javascript
-const arafath = {
+const arafat = {
     location: "📍 Bangladesh",
     role: "MERN Stack Developer",
     experienceLevel: "Junior Developer",
