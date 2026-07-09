@@ -98,11 +98,9 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arafaths&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arafaths&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arafaths&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=arafaths&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,11 +108,8 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafaths&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafaths&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 # 📈 GitHub Activity Graph
