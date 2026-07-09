@@ -71,11 +71,11 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/arafaths">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/arafaths">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
