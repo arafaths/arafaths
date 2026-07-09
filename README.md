@@ -39,7 +39,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 [ P ](https://arafaths.vercel.app/)
+🔗 (https://arafaths.vercel.app/)
 
 ---
 
