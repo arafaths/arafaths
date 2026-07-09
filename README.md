@@ -111,7 +111,7 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafaths&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,7 +121,7 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arafaths&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
