@@ -89,7 +89,7 @@ I enjoy building modern, responsive, and user-friendly web applications using th
 
 📧 **Email:** arafaths2006@gmail.com
 
-📱 **Phone:** YOUR_PHONE_NUMBER
+📱 **Phone:** +880 1986933704
 
 🌐 **Portfolio:** https://arafaths.vercel.app
 
