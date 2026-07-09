@@ -159,7 +159,7 @@ A responsive eCommerce application with authentication and product management.
 
 🌐 **Portfolio:** https://arafaths.vercel.app
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💻 **GitHub:** https://github.com/arafaths
 
 ---
 
